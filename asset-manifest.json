@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/step12/static/css/main.1abf0f1e.css",
+    "main.js": "/step12/static/js/main.a39813dc.js",
+    "index.html": "/step12/index.html",
+    "main.1abf0f1e.css.map": "/step12/static/css/main.1abf0f1e.css.map",
+    "main.a39813dc.js.map": "/step12/static/js/main.a39813dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1abf0f1e.css",
+    "static/js/main.a39813dc.js"
+  ]
+}
